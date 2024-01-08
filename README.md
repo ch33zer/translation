@@ -2,7 +2,7 @@
 
 This  is a toy Japanese to English translater. It's based on the paper [Attention is All You Need](https://arxiv.org/abs/1706.03762). It's very early days and is not suitable for anything but experimentation.
 
-## Runing
+## Running
 
 Just open [translation.ipynb](translation.ipynb) and run the steps. You will almost certainly need a GPU to train at all efficiently. There's a trained model stored in `model.pt` you can load if you don't want to full trained.
 
